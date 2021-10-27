@@ -1,1 +1,2 @@
-Krri_files
+KRRI 관련 공부 자료 정리 폴더
+
