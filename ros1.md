@@ -25,7 +25,7 @@ https://bigbigpark.tistory.com/36
 ### Rosbag to Video 
 
 ```bash
-$ rosrun image_view_recoder image:='<Topic>' _filename:='<VideoFileName>' _fps:=<fps>
+$ rosrun image_view_recoder video_recorder image:='<Topic>' _filename:='<VideoFileName>' _fps:=<fps>
 ```
 
 ### Rosbag Lidar Pointcloud 보는법
