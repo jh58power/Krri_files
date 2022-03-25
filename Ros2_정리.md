@@ -76,7 +76,7 @@ $ ros2 bag play <Bag경로>
 1. pointcloud 토픽의 frame id 확인
 
 ```bash
-$ ros2 topic echo <PointCloudTopic> | grep=frame_id
+$ ros2 topic echo <PointCloudTopic> | grep frame_id
 ```
 
 2. rviz 실행
