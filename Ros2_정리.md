@@ -85,6 +85,28 @@ $ ros2 topic echo <PointCloudTopic> | grep=frame_id
 
 
 
+### Ros Topic에서 이상한 값이 나온다?
+
+* 3층에 있는 시뮬레이션 pc 의 값이 이더넷 네터워크를 통해 들어온것이다.
+
+  ``` bash
+  $ export ROS_LOCALHOST_ONLY=1
+  ```
+
+  입력시 ros 환경이 로컬 환경에서만 사용 가능하게 설정되어 안뜨게 된다.
+
+* 위 명령어는 1회성으로 각 터미널마다 해줘야하는데 영구적으로 설정할 시
+
+  /etc/bash.bashrc 에 해당 명령어 추가해 준뒤 
+
+  ```bash 
+  $ source /etc/bash.bashrc
+  ```
+
+  
+
+
+
 ### RQT Plugin 추가
 
 참고 사이트 : https://cafe.naver.com/ca-fe/ArticleRead.nhn?clubid=25572101&page=1&inCafeSearch=true&searchBy=1&query=rqt+plugin&includeAll=&exclude=&include=&exact=&searchdate=all&media=0&sortBy=date&articleid=25073&referrerAllArticles=true
