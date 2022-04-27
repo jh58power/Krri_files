@@ -16,6 +16,7 @@ sudo mount /dev/sdb3 /home/krri/HDD
 
 ```bash
 sudo mount -t cifs //192.168.2.94/student/ /home/krri/nas_student -o user='student',password='rr1234!',rw,vers=1.0
+sudo mount -t cifs //192.168.2.94/brtdata/ /home/krri/brtdata -o user='student',password='rr1234!',rw,vers=1.0
 ```
 
 #### NAS 자동 마운트 설정
@@ -23,6 +24,8 @@ sudo mount -t cifs //192.168.2.94/student/ /home/krri/nas_student -o user='stude
 /etc/fstab 에 마운트 정보 등록
 
 //192.168.2.94/student /home/krri/nas_student cifs user='student,pass='rr1234!',rw,vers=1.0 0 0
+
+//192.168.2.94/team/ /home/krri/nas_team cifs user='student,pass='rr1234!',rw,vers=1.0 0 0
 
 
 
