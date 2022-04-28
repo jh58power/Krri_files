@@ -1,0 +1,4 @@
+bag_uri : '/home/krri/brtdata/exp_20201111/2020-11-12-11-31-32.bag'
+output_dir_name : 'ros1_bag_data'
+camera_topics : ['/camera2/usb_cam2/image_raw','/camera3/usb_cam3/image_raw','/camera4/usb_cam4/image_raw']
+lidar_topics : ['/os1_cloud_node/points']
