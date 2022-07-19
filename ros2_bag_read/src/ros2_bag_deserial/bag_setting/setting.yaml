@@ -1,0 +1,9 @@
+bag_uri : '/media/krri/T7 Touch/shin_dev/bag/rosbag2_2022_07_15-16_09_22'
+output_path : '/home/krri/HDD/dataset'
+lidar_topics : ['/pcl_output_fl','/pcl_output_fr']
+cam_topics : ['/compressed_image_rearright_output', '/compressed_image_frontleft_output']
+csv_topics : [] #['/ego_pose']
+custom_topics : [] # ['/ObsData']
+option_list : [] # ['f_pose_x','f_pose_y','f_pose_z','f_roll','f_pitch','f_yaw']
+lidar_color : False
+sim_data : False
