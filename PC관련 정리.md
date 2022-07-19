@@ -9,7 +9,8 @@
 #### HDD 마운트
 
 ```bash
-sudo mount /dev/sdb3 /home/krri/HDD
+sudo mount /dev/sdc1 /home/krri/HDD
+sudo mount /dev/sda /home/krri/SSD
 ```
 
 #### NAS 폴더 마운트
