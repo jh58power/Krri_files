@@ -1,0 +1,37 @@
+[1.201s] Invoking command in '/home/krri/HDD/Krri_tools/tools/view_cam/src/view_cam': PYTHONPATH=/home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/view_cam build --build-base /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build install --prefix /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam --record /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log --single-version-externally-managed
+[1.527s] running egg_info
+[1.528s] creating ../../build/view_cam/view_cam.egg-info
+[1.529s] writing ../../build/view_cam/view_cam.egg-info/PKG-INFO
+[1.545s] writing dependency_links to ../../build/view_cam/view_cam.egg-info/dependency_links.txt
+[1.560s] writing entry points to ../../build/view_cam/view_cam.egg-info/entry_points.txt
+[1.560s] writing requirements to ../../build/view_cam/view_cam.egg-info/requires.txt
+[1.561s] writing top-level names to ../../build/view_cam/view_cam.egg-info/top_level.txt
+[1.562s] writing manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+[1.595s] reading manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+[1.610s] writing manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+[1.611s] running build
+[1.611s] running build_py
+[1.611s] creating /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build
+[1.611s] creating /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib
+[1.612s] creating /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+[1.612s] copying view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+[1.612s] copying view_cam/__init__.py -> /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+[1.612s] running install
+[1.613s] running install_lib
+[1.614s] creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+[1.615s] copying /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+[1.615s] copying /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam/__init__.py -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+[1.616s] byte-compiling /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam/toimage.py to toimage.cpython-38.pyc
+[1.618s] byte-compiling /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam/__init__.py to __init__.cpython-38.pyc
+[1.618s] running install_data
+[1.619s] creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index
+[1.620s] creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index/resource_index
+[1.620s] creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index/resource_index/packages
+[1.620s] copying resource/view_cam -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index/resource_index/packages
+[1.620s] copying package.xml -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/view_cam
+[1.621s] running install_egg_info
+[1.623s] Copying ../../build/view_cam/view_cam.egg-info to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam-0.0.0-py3.8.egg-info
+[1.625s] running install_scripts
+[1.647s] Installing toimg script to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/view_cam
+[1.648s] writing list of installed files to '/home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log'
+[1.671s] Invoked command in '/home/krri/HDD/Krri_tools/tools/view_cam/src/view_cam' returned '0': PYTHONPATH=/home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/view_cam build --build-base /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build install --prefix /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam --record /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log --single-version-externally-managed

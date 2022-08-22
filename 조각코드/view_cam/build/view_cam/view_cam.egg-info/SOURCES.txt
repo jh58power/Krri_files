@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/view_cam/view_cam.egg-info/PKG-INFO
+../../build/view_cam/view_cam.egg-info/SOURCES.txt
+../../build/view_cam/view_cam.egg-info/dependency_links.txt
+../../build/view_cam/view_cam.egg-info/entry_points.txt
+../../build/view_cam/view_cam.egg-info/requires.txt
+../../build/view_cam/view_cam.egg-info/top_level.txt
+../../build/view_cam/view_cam.egg-info/zip-safe
+resource/view_cam
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+view_cam/__init__.py
+view_cam/toimage.py

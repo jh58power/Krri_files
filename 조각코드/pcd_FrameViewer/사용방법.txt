@@ -1,0 +1,8 @@
+python pcdFrameViewer_xy.py --pcd_path <pcd폴더> --img_path <camImage폴더> --start_index <시작할 인덱스> 
+
+ python pcdFrameViewer_xy.py --pcd_path /home/krri/HDD/Bags/rosbag2_2022_08_11-16_21_42_0/pcl_output_fl --img_path /home/krri/HDD/Bags/rosbag2_2022_08_11-16_21_42_0/compressed_image_frontright_output
+
+python pcdFrameViewer_yz.py --pcd_path <pcd폴더> --img_path <camImage폴더> --start_index <시작할 인덱스> 
+
+
+python pcdFrameViewer_yz.py --pcd_path /home/krri/brtdata/exp_20201111/raw/2020-11-11-14-58-29/os1_cloud_node/points --img_path /home/krri/brtdata/exp_20201111/raw/2020-11-11-14-58-29/camera4/usb_cam4/image_raw

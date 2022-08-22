@@ -1,0 +1,3 @@
+[console_scripts]
+toimg = view_cam.toimage:main
+

@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/view_cam/view_cam.egg-info/PKG-INFO
+writing dependency_links to ../../build/view_cam/view_cam.egg-info/dependency_links.txt
+writing entry points to ../../build/view_cam/view_cam.egg-info/entry_points.txt
+writing requirements to ../../build/view_cam/view_cam.egg-info/requires.txt
+writing top-level names to ../../build/view_cam/view_cam.egg-info/top_level.txt
+reading manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+writing manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+running build
+running build_py
+copying view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+running install
+running install_lib
+copying /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+byte-compiling /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam/toimage.py to toimage.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/view_cam/view_cam.egg-info to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam-0.0.0-py3.8.egg-info
+running install_scripts
+Installing toimg script to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/view_cam
+writing list of installed files to '/home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log'

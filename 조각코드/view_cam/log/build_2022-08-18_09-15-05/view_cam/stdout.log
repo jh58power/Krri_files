@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/view_cam/view_cam.egg-info
+writing ../../build/view_cam/view_cam.egg-info/PKG-INFO
+writing dependency_links to ../../build/view_cam/view_cam.egg-info/dependency_links.txt
+writing entry points to ../../build/view_cam/view_cam.egg-info/entry_points.txt
+writing requirements to ../../build/view_cam/view_cam.egg-info/requires.txt
+writing top-level names to ../../build/view_cam/view_cam.egg-info/top_level.txt
+writing manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+reading manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+writing manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build
+creating /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib
+creating /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+copying view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+copying view_cam/__init__.py -> /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+running install
+running install_lib
+creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+copying /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+copying /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam/__init__.py -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+byte-compiling /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam/toimage.py to toimage.cpython-38.pyc
+byte-compiling /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index
+creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index/resource_index
+creating /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index/resource_index/packages
+copying resource/view_cam -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/ament_index/resource_index/packages
+copying package.xml -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/share/view_cam
+running install_egg_info
+Copying ../../build/view_cam/view_cam.egg-info to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam-0.0.0-py3.8.egg-info
+running install_scripts
+Installing toimg script to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/view_cam
+writing list of installed files to '/home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log'

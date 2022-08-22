@@ -1,0 +1,24 @@
+[1.293s] Invoking command in '/home/krri/HDD/Krri_tools/tools/view_cam/src/view_cam': PYTHONPATH=/home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/view_cam build --build-base /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build install --prefix /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam --record /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log --single-version-externally-managed
+[1.628s] running egg_info
+[1.629s] writing ../../build/view_cam/view_cam.egg-info/PKG-INFO
+[1.629s] writing dependency_links to ../../build/view_cam/view_cam.egg-info/dependency_links.txt
+[1.630s] writing entry points to ../../build/view_cam/view_cam.egg-info/entry_points.txt
+[1.630s] writing requirements to ../../build/view_cam/view_cam.egg-info/requires.txt
+[1.630s] writing top-level names to ../../build/view_cam/view_cam.egg-info/top_level.txt
+[1.669s] reading manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+[1.671s] writing manifest file '../../build/view_cam/view_cam.egg-info/SOURCES.txt'
+[1.671s] running build
+[1.671s] running build_py
+[1.672s] copying view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam
+[1.672s] running install
+[1.673s] running install_lib
+[1.674s] copying /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build/lib/view_cam/toimage.py -> /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam
+[1.675s] byte-compiling /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam/toimage.py to toimage.cpython-38.pyc
+[1.677s] running install_data
+[1.678s] running install_egg_info
+[1.680s] removing '/home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam-0.0.0-py3.8.egg-info' (and everything under it)
+[1.681s] Copying ../../build/view_cam/view_cam.egg-info to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages/view_cam-0.0.0-py3.8.egg-info
+[1.684s] running install_scripts
+[1.705s] Installing toimg script to /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/view_cam
+[1.706s] writing list of installed files to '/home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log'
+[1.727s] Invoked command in '/home/krri/HDD/Krri_tools/tools/view_cam/src/view_cam' returned '0': PYTHONPATH=/home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/view_cam build --build-base /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/build install --prefix /home/krri/HDD/Krri_tools/tools/view_cam/install/view_cam --record /home/krri/HDD/Krri_tools/tools/view_cam/build/view_cam/install.log --single-version-externally-managed
